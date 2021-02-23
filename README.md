@@ -1,4 +1,6 @@
 # YttriumResourcePack
+[![Exoad's Den](https://img.shields.io/discord/792194075599568926.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/akrWKWeN)
+
 ![Yttrium](pack.png)
 
 The Official Yttrium Minecraft Resource Pack
