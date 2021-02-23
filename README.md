@@ -1,3 +1,5 @@
 # YttriumResourcePack
-The Official Yttrium Minecraft Resource Pack
 ![Yttrium](pack.png)
+
+The Official Yttrium Minecraft Resource Pack
+
