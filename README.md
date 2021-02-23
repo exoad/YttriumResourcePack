@@ -1,6 +1,7 @@
 # YttriumResourcePack
-[![Exoad's Den](https://img.shields.io/discord/792194075599568926.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/akrWKWeN)
+[![Exoad's Den](https://img.shields.io/discord/92194075599568926?style=for-the-badge)](https://discord.gg/akrWKWeN)
 ![](https://img.shields.io/badge/Yttrium-MINECRAFT-lightgrey)
+![](https://img.shields.io/github/commit-activity/w/exoad/YttriumResourcePack?style=for-the-badge)
 
 ![Yttrium](pack.png)
 
